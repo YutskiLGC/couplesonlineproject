@@ -853,6 +853,9 @@
   "engines": {
   "node": "14.x" 
 },
+"resolutions": {
+  "string-width-cjs": "4.2.3"
+},
   "author": "",
   "license": "ISC",
   "description": ""
